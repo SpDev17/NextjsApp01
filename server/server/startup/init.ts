@@ -20,9 +20,11 @@ const appSetup = async (app: Express) => {
         cliLoggerService.info(InfoMessages.DatabasesConnected);
         cliLoggerService.info(SpecialMessages.DottedLine);
 
-        const server = app.listen(APP_PORT,"0.0.0.0", () => {
+        //0.0.0.0 is added for aws hosting only 6.19.25 video time
+        const port = Number(process.env.PORT) || 1002;
+        const server = app.listen(port,"0.0.0.0", () => {
             
-            cliLoggerService.info(`Server started on port ${APP_PORT} 🚀🚀🚀`);
+            cliLoggerService.info(`Server started on port ${port} 🚀🚀🚀`);
         });
         //socket
         //https://dev.to/admirnisic/real-time-communication-with-socketio-and-nodejs-3ok2
