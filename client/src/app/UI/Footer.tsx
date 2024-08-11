@@ -1,4 +1,4 @@
-export default function () {
+export default function Footer() {
     return (
         
             <footer className="text-gray-600 body-font gap-4 mt-4 bg-purple-200 rounded-lg">

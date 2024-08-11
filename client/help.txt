@@ -57,4 +57,7 @@ https://github.com/choutkamartin/next-auth-mongoose/blob/main/pages/_middleware.
 inventry management
 https://www.youtube.com/watch?v=ddKQ8sZo_v8
 
+NEXTAUTH_URL=http://localhost:3000
+NEXT_PUBLIC_URL=http://localhost:3000
+
 

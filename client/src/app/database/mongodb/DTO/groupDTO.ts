@@ -1,4 +1,5 @@
-import { IGroupDocument } from '../../../databases/mongodb/schema/group.schema';
+//import { IGroupDocument } from '../../../databases/mongodb/schema/group.schema';
+import { IGroupDocument } from '@/app/database/mongodb/schema/group.schema'
 
 export class groupDTO {
     id!: string;

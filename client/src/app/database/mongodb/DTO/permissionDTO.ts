@@ -1,4 +1,5 @@
-import { IPermissionDocument } from '../../../databases/mongodb/schema/permission.schema';
+//import { IPermissionDocument } from '@app/databases/mongodb/schema/permission.schema';
+import { IPermissionDocument } from '@/app/database/mongodb/schema/permission.schema';
 
 export class permissionDTO {
     id!: string;

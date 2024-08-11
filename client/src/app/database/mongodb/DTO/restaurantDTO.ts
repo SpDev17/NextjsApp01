@@ -1,4 +1,5 @@
-import { IRestaurantDocument } from '../../../databases/mongodb/schema/restaurants.schema';
+//import { IRestaurantDocument } from '@/app/databases/mongodb/schema/restaurants.schema';
+import { IRestaurantDocument } from '@/app/database/mongodb/schema/restaurants.schema';
 export class restaurantDTO {
     id!: string;
     address!: string;

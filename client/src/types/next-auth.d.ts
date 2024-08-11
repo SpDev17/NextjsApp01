@@ -12,6 +12,7 @@ declare module "next-auth" {
             first_name: string
             last_name: string
             groups: any
+            email:string
         } & DefaultSession
     }
 
@@ -19,6 +20,7 @@ declare module "next-auth" {
         first_name: string;
         last_name: string;
         groups: any;
+        email:string
     }
     /**
      * Usually contains information about the provider being used
@@ -32,5 +34,6 @@ declare module "next-auth/jwt" {
         first_name?: string;
         last_name?: string
         groups?: any
+        email?:string
     }
 }

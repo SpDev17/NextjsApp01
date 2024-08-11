@@ -1,4 +1,5 @@
-import { IGroupPermissionDocument } from '../../../databases/mongodb/schema/grouppermission.schema';
+//import { IGroupPermissionDocument } from '../../../databases/mongodb/schema/grouppermission.schema';
+import { IGroupPermissionDocument } from '@/app/database/mongodb/schema/grouppermission.schema';
 
 export class groupPermissionDTO {
     id!: string;

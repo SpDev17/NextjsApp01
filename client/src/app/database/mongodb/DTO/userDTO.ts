@@ -1,5 +1,7 @@
-import { IUser } from '../../../databases/mongodb/model/user.model';
-import { IUserDocument } from '../../../databases/mongodb/schema/user.schema';
+//import { IUser } from '../../../databases/mongodb/model/user.model';
+//import { IUser } from '@/app/database/mongodb/model/';
+//import { IUserDocument } from '../../../databases/mongodb/schema/user.schema';
+import { IUserDocument } from '@/app/database/mongodb/schema/user.schema';
 export class userDTO {
     id!: string;
     first_name!: string;

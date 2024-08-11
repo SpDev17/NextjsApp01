@@ -106,7 +106,8 @@ const handler = NextAuth({
                     id: user.id,
                     first_name: user.first_name,
                     last_name: user.last_name,
-                    groups: user.groups
+                    groups: user.groups,
+                    email:user.email
                 }
             }
             //update the user in the database
@@ -123,7 +124,8 @@ const handler = NextAuth({
                     first_name: token.first_name,
                     last_name: token.last_name,
                     groups: token.groups,
-                    name: token.name
+                    name: token.name,
+                    email:token.email
                 }
             }
             return session;

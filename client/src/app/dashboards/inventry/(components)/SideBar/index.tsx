@@ -59,7 +59,7 @@ const SidebarLink = ({
   );
 };
 
-const index = () => {
+const Index = () => {
   const dispatch = useAppDispatch();
   const isSidebarCollapsed = useAppSelector(
     (state) => state.global.isSidebarCollapsed
@@ -148,4 +148,4 @@ const index = () => {
   );
 };
 
-export default index;
+export default Index;

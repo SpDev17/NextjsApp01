@@ -16,7 +16,7 @@ async function getBlogByTitle(title: string) {
   });
   return response.json();
 }
-const user = ({ params }: { params: { blog: string } }) => {
+const User = ({ params }: { params: { blog: string } }) => {
   const [blog, setBlog] = useState<Blog | null>(null)
   const [loading, setLoading] = useState<boolean>(false);
   const getblogbytitle = async () => {
@@ -58,4 +58,4 @@ const user = ({ params }: { params: { blog: string } }) => {
   </div>);
 }
 
-export default user;
+export default User;

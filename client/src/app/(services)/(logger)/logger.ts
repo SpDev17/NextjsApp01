@@ -4,7 +4,7 @@ import { randomBytes } from 'crypto';
 import DailyRotateFile from 'winston-daily-rotate-file';
 const { combine, timestamp, colorize, json, label, printf, metadata } = winston.format;
 const timestampFormat = 'MMM-DD-YYYY HH:mm:ss';
-const appVersion = process.env.npm_package_version;
+const appVersion = "16.8";
 const generateLogId = (): string => randomBytes(16).toString('hex');
 //const { MONGODB_URI } = require('../startup/envconfig');
 // Logger for MongoDB
@@ -62,7 +62,7 @@ export const httpLogger = winston.createLogger({
                 timestamp,
                 appInfo: {
                     appVersion,
-                    environment: process.env.NODE_ENV, // development/staging/production
+                    environment: 'production',//process.env.NODE_ENV, // development/staging/production
                     proccessId: process.pid,
                 },
                 message,
@@ -76,7 +76,7 @@ export const httpLogger = winston.createLogger({
         // log to console
         new winston.transports.Console({
             // if set to true, logs will not appear
-            silent: process.env.NODE_ENV === 'development' // true/false
+            silent: true//process.env.NODE_ENV === 'development' // true/false
         }),
         // log to file, but rotate daily
         new DailyRotateFile({
