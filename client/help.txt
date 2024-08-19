@@ -1,0 +1,63 @@
+https://dev.to/timmy471/creating-a-table-component-in-react-with-tailwind-css-2he3
+https://nextjs.org/docs/app/building-your-application/routing/route-handlers#opting-out-of-caching
+
+free template
+https://www.wrappixel.com/templates/category/free-templates/
+
+nextjs routing/middleware
+https://nextjs.org/docs/app/building-your-application/routing
+
+http://localhost:1001/api/mongoose/users
+http://localhost:3000/api/data/group/get_json?select=id,title&$filter=go
+https://www.youtube.com/watch?v=2TdzZcVR_4g&list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&index=47
+https://www.youtube.com/results?search_query=power+apps+reza+dorrani+
+
+next js tutorial
+https://www.youtube.com/@codewithguillaume
+https://www.codewithg.com/repos
+https://www.youtube.com/watch?v=TFsRd2Aw60Q
+https://www.youtube.com/watch?v=d5mpwOIe6G4&list=PL8HkCX2C5h0WOxJY9hwqWl6bv0RsJbW8U&index=13
+https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI
+
+
+https://www.msn.com/en-in/money/news/eight-reasons-to-opt-for-the-old-tax-regime/ar-BB1kHpCC?ocid=hpmsn&cvid=b5755b4d18594301b1f5483f5750f015&ei=60
+https://www.youtube.com/watch?v=gEB3ckYeZF4
+https://nextjs.org/docs/app/building-your-application/routing/middleware
+https://www.youtube.com/watch?v=uR67O6sNjbg
+https://www.youtube.com/watch?v=JViNLW_m7uU&list=PL8HkCX2C5h0WOxJY9hwqWl6bv0RsJbW8U&index=4
+https://www.youtube.com/watch?v=vGkThgeZ9rA&list=UULF80PWRj_ZU8Zu0HSMNVwKWw
+https://flowbite.com/blocks/marketing/login/
+https://tailwindui.com/components/application-ui/forms/sign-in-forms
+https://tailblocks.cc/
+https://play.tailwindcss.com/
+https://getbootstrap.com/
+
+
+JavaScript Mastery
+https://www.youtube.com/@javascriptmastery
+
+
+
+
+nvm
+https://github.com/coreybutler/nvm-windows
+
+https://nextjs.org/docs/architecture/nextjs-compiler
+
+ssl host
+https://sslinsights.com/fix-unable-to-get-issuer-cert-locally-error-node-js/
+
+moongose adapter
+https://github.com/msoyka/next-auth-mongoose-adapter/blob/main/tsconfig.json
+https://github.com/choutkamartin/next-auth-mongoose/blob/main/pages/_middleware.js
+
+//https://www.youtube.com/watch?v=bkUmN9TH_hQ
+//update Next Auth - JWT & Session Callback & How to Update User Session
+
+inventry management
+https://www.youtube.com/watch?v=ddKQ8sZo_v8
+
+NEXTAUTH_URL=http://localhost:3000
+NEXT_PUBLIC_URL=http://localhost:3000
+
+

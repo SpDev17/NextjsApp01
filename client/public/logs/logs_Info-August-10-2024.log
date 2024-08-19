@@ -1,0 +1,128 @@
+{
+    "level": "info",
+    "logId": "4cf69ac2ae2125e05b9e00ebeaac04c2",
+    "timestamp": "Aug-10-2024 23:46:45",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 13436
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "63a5bf41936517f4a9691a85fd98993d",
+    "timestamp": "Aug-10-2024 23:49:40",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 19964
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "8f179a505b017bf511ca3f0b8b0b7b18",
+    "timestamp": "Aug-10-2024 23:52:12",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 37892
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "4b96b53573e7521dbc7f2348301486ee",
+    "timestamp": "Aug-10-2024 23:52:14",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 37892
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "5c02e3be7176e3b8b8166182a4444d97",
+    "timestamp": "Aug-10-2024 23:52:33",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 37892
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "5b6e8d6a5bf884e003818c73fb269f31",
+    "timestamp": "Aug-10-2024 23:52:33",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 37892
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "20746bfa43dbb9c0c54a1f06fb14a8ff",
+    "timestamp": "Aug-10-2024 23:55:27",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 37892
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "218b29b500bec1ea985b4bda80d3dadb",
+    "timestamp": "Aug-10-2024 23:55:27",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 37892
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}

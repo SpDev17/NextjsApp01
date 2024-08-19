@@ -1,0 +1,176 @@
+{
+    "level": "info",
+    "logId": "e8d8d7a8e75e8868bcdb267ac7b5f3d7",
+    "timestamp": "Aug-19-2024 11:03:42",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 12852
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "d9ad6a96dc549c4d5438679733c1f39b",
+    "timestamp": "Aug-19-2024 11:03:59",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 12852
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "93731d3b1ff99234e00cb02e35ce5016",
+    "timestamp": "Aug-19-2024 11:04:08",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 12852
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "8c38cd6aa384d19777371409d75c0afa",
+    "timestamp": "Aug-19-2024 11:40:43",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 12852
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "c46eb519bd47597cc17c6936b1508dfa",
+    "timestamp": "Aug-19-2024 11:40:44",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 12852
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "32d50e313f0ce9f26b82e5e4e267c71f",
+    "timestamp": "Aug-19-2024 11:50:50",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 12396
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "63bf8588f3726e43d93a1c2954f4a72c",
+    "timestamp": "Aug-19-2024 11:50:52",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 12396
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "9617d92954b3db74e624d9807f5323dc",
+    "timestamp": "Aug-19-2024 11:54:59",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 12396
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "00501ee007d61bf83ee34428a820d719",
+    "timestamp": "Aug-19-2024 11:55:00",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 12396
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "f21ab14a530c16e8dee00a1ca988ae0e",
+    "timestamp": "Aug-19-2024 12:31:37",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 18208
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
+{
+    "level": "info",
+    "logId": "76b26daa1b5ed8531fcec37ef3849d2a",
+    "timestamp": "Aug-19-2024 12:31:40",
+    "appInfo": {
+        "appVersion": "16.8",
+        "environment": "production",
+        "proccessId": 18208
+    },
+    "message": {
+        "model": "user",
+        "sort": "\"first_name\"",
+        "desc": "false"
+    },
+    "data": {}
+}
